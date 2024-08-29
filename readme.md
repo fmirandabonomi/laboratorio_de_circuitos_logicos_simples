@@ -10,22 +10,15 @@ Los objetivos de este proyecto son los siguientes:
    1. Las funciones lógicas básicas NOT, AND y OR
    2. Las funciones lógicas NAND y NOR
    3. El teorema de DeMorgan
-   4. Las función XOR
-   5. Construcción de las funciones lógicas básicas a partir de las funciones NAND o NOR
-   6. El cerrojo RS
-   7. El detector de flanco ascendente por transitorio
-   8. El circuito de mayoría
-   9. El medio sumador
-   10. El sumador completo
+   4. Construcción de las funciones lógicas básicas a partir de las funciones NAND o NOR
+   5. El cerrojo RS
+   6. El detector de flanco ascendente por transitorio
 2. Construir y observar el funcionamiento de los siguientes circuitos lógicos construidos en base a la compuerta:
    1. Función lógica NOT
    2. Función lógica AND
    3. Función lógica OR
    4. Cerrojo RS con habilitación
    5. Detector de flanco ascendente
-   6. Circuito de mayoría de tres entradas
-   7. Semi-sumador
-   8. Sumador completo
 
 ## Entregables
 
@@ -39,9 +32,9 @@ Deberás producir un informe conteniendo los resultados de la investigación bib
     - Explica de forma clara de que trata el informe. Esto es, sin leer el resto del informe y solo en base al resumen un lector puede comprender que se investigó y que experiencias se llevaron a cabo.
 - *Introducción*. (2 puntos)
   - Exponer los resultados de la investigación del objetivo 1.
-  - Plantear los objetivos de la experiencia de laboratorio (objetivos 3, 4 y 5)
+  - Plantear los objetivos de la experiencia de laboratorio (objetivo 2)
   - Criterios de evaluación:
-    - Expone los temas 1.1 a 1.10 en forma clara
+    - Expone los temas en forma clara
     - Incluye figuras y tablas necesarias
     - Al exponer los temas cita las fuentes consultadas según normas APA, puedes consultar (Sanchez, 2019).
 - *Materiales y Métodos.* (2,5 puntos)
@@ -49,7 +42,7 @@ Deberás producir un informe conteniendo los resultados de la investigación bib
   - Incluir figuras y tablas para ilustrar lo presentado.
   - Criterios:
     - Cita la bibliografía empleada correctamente según normas APA (Sanchez, 2019)
-    - Explica el procedimiento seguido en el objetivo 2. Incluye diagramas esquemáticos y explicaciones sobre el montaje.
+    - Explica el procedimiento seguido. Incluye diagramas esquemáticos y explicaciones sobre el montaje.
     - Si incluye fotos, las mismas son relevantes y claras
     - Toda figura tiene un epígrafe y número de figura
     - Toda figura es citada en el texto indicando su número (ej. "La Figura 1...")
